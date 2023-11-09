@@ -1,0 +1,131 @@
+:root {
+    --color-primary: #00B293;
+    --color-primary-dark: #009D94;
+    --color-secondary: #2196F3;
+    --color-secondary-md: #255C6F;
+    --color-secondary-dark: #2F4858;
+    --color-orange: #E57B25;
+    --color-background: #EEF2ED;
+    --color-highlight: #F3F3F3;
+    --color-white: #FFF;
+    --color-black: #000;
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url('../../src/fonts/InterTight-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../../src/fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.pilares-institucionales {
+    width: 70%;
+    display: flex;
+    gap: 80px;
+    margin: 30px 0 60px 0;
+    background-color: var(--color-white);
+    box-shadow: 2px 9px 65px -54px rgba(0, 0, 0, 0.75);
+    border-radius: 24px;
+}
+
+/* Estilos de la caja principal */
+.container_utl {
+    display: flex;
+    width: 100%;
+}
+
+/* Estilos de la caja de la imagen */
+.image-box_utl {
+    flex: 1;
+    text-align: center;
+}
+
+.image-box_utl img {
+    max-width: 100%;
+    height: 100%;
+    border-radius: 24px 0 0 24px;
+}
+
+/* Estilos de la caja de contenido */
+.content-box_utl {
+    flex: 1;
+    position: relative;
+}
+
+.content-box_utl_info {
+    padding: 30px;
+}
+
+.content-box_utl h2 {
+    font-size: 24px;
+}
+
+/* Estilos de los botones */
+.buttons_utl {
+    margin-top: auto;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    display: flex;
+}
+
+.buttons_utl button {
+    flex: 1;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Inter-Regular';
+    color: var(--color-white);
+}
+
+#btn-mision {
+    background-color: var(--color-primary);
+}
+
+#btn-vision {
+    background-color: var(--color-orange);
+}
+
+#btn-valores {
+    background-color: var(--color-secondary);
+    border-radius: 0 0 24px 0;
+}
+
+@media (max-width: 900px) {
+    .pilares-institucionales {
+        width: 80%;
+    }
+
+    .container_utl {
+        flex-direction: column;
+    }
+
+    .image-box_utl img {
+        border-radius: 24px 24px 0 0;
+    }
+
+    #btn-mision {
+        border-radius: 0 0 0 24px;
+    }
+
+    .content-box_utl_info {
+        padding: 20px;
+        margin-bottom: 40px;
+    }
+
+    .content-box_utl h2 {
+        font-size: 20px;
+    }
+
+    .content-box_utl p {
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "reincorporacion": [
+        {
+            "titulo": "Reincorporación por baja",
+            "descripcion": [
+                {
+                    "paso": "1er paso",
+                    "detalles": [
+                        "Verificar los cuatrimestres activos y las fechas de llenado de solicitud para el para el ingreso al periodo Enero - Abril 2024",
+                        "Interesados:",
+                        "Primer caso: si eres interesado en ingresar a TSU de 2do, 5to, 6to o 8vo cuatrimestre o en ING/ LIC de 8vo u 11vo cuatrimestre, la solicitud se deberá de llenar de 9 al 21 de Octubre, la respuesta de se dará el 7 de Diciembre.",
+                        "Segundo caso: si eres estudiante inscrito en el periodo Septiembre - Diciembre 2023 y reprobaste 3 o más materías o no pasaste la recuperación, la fecha de la solicitud será el 14 de Diciembre, la respuesta se dará de el 15 de Diciembre."
+                    ],
+                    "link": ""
+                },
+                {
+                    "paso": "2do paso",
+                    "detalles": [
+                        "Del 9 al 21 de Octubre del 2023 deberás de llenar la solicitud en el siguente enlace:"
+                    ],
+                    "link": "https://forms.office.com/r/GEACEWVAeJ"
+                },
+                {
+                    "paso": "3er paso",
+                    "detalles": [
+                        "Tu solicitud será revisado de acuerdo a:",
+                        "• Historial académico.",
+                        "• Reglamento académico.",
+                        "• Documentación en tú expediente.",
+                        "Si existe alguna observación te será notificado vía correo electrónico."
+                    ],
+                    "link": ""
+                },
+                {
+                    "paso": "4to paso",
+                    "detalles": [
+                        "El día 7 de Diciembre del 2023, podrás consultar la respuesta a tu solicitud, ingresado en el siguiente link:"
+                    ],
+                    "link": "https://sito.utleon.edu.mx/jsp/escolar/reingreso_baja/consulta_estatus_baja.jsp"
+                },
+                {
+                    "paso": "5to paso",
+                    "detalles": [
+                        "Si tu solicitud fue APROBADA, deberás consultar y realizar el proceso de reinscripción cuatrimestral LA PRIMERA SEMANA DE CLASE.",
+                        "Revisa las fechas en el siguiente link:"
+                    ],
+                    "link": "https://utleon.edu.mx/reinscripcion"
+                }
+            ]
+        }
+    ],
+    "cambiout": [
+        {
+            "titulo": "Cambio de otra Universidad Tecnológica",
+            "descripcion": [
+                {
+                    "paso": "Dirigido a:",
+                    "detalles": [
+                        "Del 23 al 27 de Octubre 2023 envía a: jramirez@utleon.edu.mx con los siguientes datos y documentación de acuerdo a tu Nivel Académico"
+                    ],
+                    "link": ""
+                },
+                {
+                    "paso": "• TSU",
+                    "detalles": [
+                        "▸ ASUNTO: INGRESO POR CAMBIO DE TSU",
+                        "▸ DATOS DEL CORREO:",
+                        "   1. Nombre completo",
+                        "   2. Institución de procedencia",
+                        "   3. Teléfono o celular",
+                        "   4. Carrera y especialidad desea ingresar a la UTL",
+                        "   5. Turno",
+                        "▸ DOCUMENTOS QUE DEBERÁS ADJUNTAR (Documentos separados en formato PDF):",
+                        "   1. Acta de nacimiento",
+                        "   2. Certificado de preparatoria o bachillerato",
+                        "   3. Certificado parcial (si no se cuenta con el, por el momento podrá presentar una constancia de calificaciones sellada y firmada por la institución de procedencia).",
+                        "   4. CURP",
+                        "   5. Constancia que indique el grado, carrera y materias que está cursando"
+                    ],
+                    "link": ""
+                },
+                {
+                    "paso": "• ING/ LIC",
+                    "detalles": [
+                        "▸ ASUNTO: INGRESO POR CAMBIO DE TSU",
+                        "▸ DATOS DEL CORREO:",
+                        "   1. Nombre completo",
+                        "   2. Institución de procedencia",
+                        "   3. Teléfono o celular",
+                        "   4. Carrera y especialidad desea ingresar a la UTL",
+                        "   5. Turno",
+                        "▸ DOCUMENTOS QUE DEBERÁS ADJUNTAR (Documentos separados en formato PDF):",
+                        "   1. Acta de nacimiento",
+                        "   2. Certificado de preparatoria o bachillerato",
+                        "   3. Certificado de TSU",
+                        "   4. Cédula profesional",
+                        "   5. Título de TSU En caso de no contar con su Título y Cédula profesional, (entregar Constancia de término, donde especifique que está en trámite por parte de la Institución)",
+                        "   6. Certificado parcial ING- LIC. (si no cuenta con él, por el momento podrá presentar una Constancia de Calificaciones, sellada y firmada por la UT de procedencia)",
+                        "   7. CURP",
+                        "   8. Constancia que indique el grado, carrera y materias que está cursando"
+                    ],
+                    "link": ""
+                },
+                {
+                    "paso": "Respuesta",
+                    "detalles": [
+                        "Se te notificará vía correo electrónico la respuesta a tu solicitud el día 7 de diciembre de 2023"
+                    ],
+                    "link": ""
+                }
+            ]
+        }
+    ]
+}

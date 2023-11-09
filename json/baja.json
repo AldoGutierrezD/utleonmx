@@ -1,0 +1,85 @@
+{
+    "temporal": [
+        {
+            "titulo": "Paso 1",
+            "descripcion": [
+                "Si eres alumno(a) inscrito(a) y NO tienes un proceso de extraordinario activo, envía correo a tu tutor(a) o gestor(a) para solicitar tu baja temporal."
+            ]
+        },
+        {
+            "titulo": "Paso 2",
+            "descripcion": [
+                "En el correo deberás colocar:",
+                "ASUNTO: Solicitud de baja temporal",
+                "• Motivo de la solicitud de baja",
+                "• Nombre completo",
+                "• Matricula",
+                "• Grupo"
+            ]
+        },
+        {
+            "titulo": "Paso 3",
+            "descripcion": [
+                "Tu tutor(a)/gestor(a) deberá informarte cuando haya sido aplicada la baja por parte de Servicios Escolares."
+            ]
+        },
+        {
+            "titulo": "Consideraciones",
+            "descripcion": [
+                "• Revisa la fecha límite para solicitud de baja voluntaria en el calendario escolar vigente.",
+                "• Si tienes un proceso de extraordinario en curso, se recomienda concluir y aprobarlo, para posterior realizar la solicitud de baja voluntaria.",
+                "• Si tienes un proceso de extraordinario en curso, y no deseas concluir, causarás baja académica en SITO al finalizar el cuatrimestre.",
+                "• Si NO estas inscrito(a) al cuatrimestre actual, NO es necesario que solicites baja temporal. El sistema te asignará la baja correspondiente."
+            ]
+        }
+    ],
+    "definitiva": [
+        {
+            "titulo": "Paso 1",
+            "descripcion": [
+                "Acude a Servicios Escolares directamente con los(as) asesores(as) de atención al alumnado.",
+                "Ubicado en el Edificio CVD, planta baja"
+            ]
+        },
+        {
+            "titulo": "Paso 2",
+            "descripcion": [
+                "Se revisará tu historial y en caso de que sea procedente se te entregará el formato correspondiente para que acudas a las siguientes áreas a liberación de adeudos.",
+                "(La liberación de estas áreas es independiente a Servicios Escolares)."
+            ]
+        },
+        {
+            "titulo": "Áreas",
+            "descripcion": [
+                "Departamento:",
+                "• Laboratorio de idiomas, ubicado en el Edificio F, planta alta.",
+                "• Actividades Culturales y Deportivas, ubicado en el Edificio C, planta baja.",
+                "• Bibloteca, ubicado en el Edificio CI.",
+                "• Centro de computo, ubicado en el Edificio E",
+                "• Laboratorio correspondiente a tu carrera",
+                "• Contabilidad y Finanzas, ubicado en Edificio Rectoria, planta baja",
+                "• Becas, ubicado en el Edificio CVD en Servicios Escolares",
+                "• Casilleros, con el correspondiente a tu carrera",
+                "• Seguridad Social, ubicado en el edificio CVD en Servicios escolares"
+            ]
+        },
+        {
+            "titulo": "Paso 3",
+            "descripcion": [
+                "Una vez que cuentes con el formato de liberación completo, deberás realizar el pago por concepto de devolución de documentos originales (bajas), puedes realizarlo en:",
+                "Caja, edificio de Rectoría ó puedes generar la referencia desde tu cuenta de SITO para que realices el pago en BBVA o por transferencia en la siguiente ruta de tu cuenta de SITO.",
+                "1- Reinscripción y Referencias de Pago / 3- Otras Referencias / Otros Pagos"
+            ]
+        },
+        {
+            "titulo": "Paso 4",
+            "descripcion": [
+                "Acude a Servicios Escolares con la siguiente documentación para concluir el trámite y te sean entregados tus documentos:",
+                "• Formato proporcionado por Servicios Escolares completo.",
+                "• Referencia y pago de devolución de documentos.",
+                "(Si lo realizas en BBVA, deberás traer original y copia del comprobante)",
+                "• Copia de tu INE vigente por ambos lados"
+            ]
+        }
+    ]
+}

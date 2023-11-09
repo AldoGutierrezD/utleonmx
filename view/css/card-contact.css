@@ -1,0 +1,50 @@
+:root {
+    --color-primary: #00B293;
+    --color-primary-dark: #009D94;
+    --color-secondary: #2196F3;
+    --color-secondary-md: #255C6F;
+    --color-secondary-dark: #2F4858;
+    --color-background: #EEF2ED;
+    --color-highlight: #F3F3F3;
+    --color-white: #FFF;
+    --color-black: #000;
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url('../../src/fonts/InterTight-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../../src/fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.card-contact {
+    width: 40%;
+    background-color: var(--color-white);
+    border-radius: 24px;
+    padding: 20px;
+    box-shadow: 2px 9px 65px -54px rgba(0, 0, 0, 0.75);
+    position: relative;
+}
+
+.card-contact>i {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    font-size: 35px;
+    color: var(--color-primary);
+}
+
+
+@media (max-width: 900px) {
+    .card-contact {
+        width: 80%;
+        flex-direction: column;
+    }
+}

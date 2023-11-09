@@ -1,0 +1,63 @@
+:root {
+    --color-primary: #00B293;
+    --color-primary-dark: #009D94;
+    --color-secondary: #2196F3;
+    --color-secondary-md: #255C6F;
+    --color-secondary-dark: #2F4858;
+    --color-background: #EEF2ED;
+    --color-highlight: #F3F3F3;
+    --color-white: #FFF;
+    --color-black: #000;
+}
+
+.faq-card,
+.faq-card-becas {
+    background-color: var(--color-white);
+    border-radius: 24px;
+    width: 100%;
+    padding: 20px;
+    box-shadow: 2px 9px 65px -54px rgba(0, 0, 0, 0.75);
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.faq-card-becas:hover {
+    background-color: var(--color-highlight);
+    cursor: pointer;
+}
+
+.faq-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.faq-content>p {
+    font-weight: bold;
+}
+
+.additional-info {
+    margin-top: 15px;
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.3s ease-in-out;
+}
+
+.faq-card.active,
+.additional-info.active {
+    max-height: 300px;
+}
+
+/* .faq-card-becas:has(.additional-info.active) {
+    background-color: var(--color-highlight);
+} */
+
+.additional-info p {
+    color: #555;
+}
+
+@media (max-width: 900px) {
+    .faq-card {
+        width: 80%;
+    }
+}

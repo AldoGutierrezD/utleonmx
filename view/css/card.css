@@ -1,0 +1,170 @@
+:root {
+    --color-primary: #00B293;
+    --color-primary-dark: #009D94;
+    --color-secondary: #2196F3;
+    --color-secondary-md: #255C6F;
+    --color-secondary-dark: #2F4858;
+    --color-background: #EEF2ED;
+    --color-highlight: #F3F3F3;
+    --color-white: #FFF;
+    --color-black: #000;
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url('../../src/fonts/InterTight-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../../src/fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.card-utl {
+    width: 70%;
+    background-color: var(--color-white);
+    border-radius: 24px;
+    padding: 20px;
+    box-shadow: 2px 9px 65px -54px rgba(0, 0, 0, 0.75);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    transition: height 0.3 ease;
+}
+
+.left-column,
+.right-column {
+    /* flex: 1 1 50%; */
+    overflow: hidden;
+    height: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.left-column {
+    width: 35%;
+}
+
+.left-column>button>div>h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.left-column>button>div>p {
+    font-family: 'Inter-Regular';
+}
+
+.vl {
+    border-left: 3px solid var(--color-highlight);
+    height: auto;
+}
+
+#carreras-list>li>a {
+    text-decoration: none;
+    color: var(--color-black);
+}
+
+#carreras-list>li>a:visited {
+    color: var(--color-black);
+}
+
+@keyframes slideInFromBottom {
+    0% {
+        transform: translateY(5%);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.transition_info {
+    animation: slideInFromBottom 0.5s ease forwards;
+    overflow: hidden;
+}
+
+.left-column button,
+.right-column ul li {
+    width: 100%;
+    padding: 8px 16px;
+    border: none;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    gap: 8px;
+    background-color: inherit;
+    box-sizing: border-box;
+}
+
+.right-column ul li {
+    padding: 16px;
+    margin-bottom: 0px;
+}
+
+.right-column ul {
+    padding: 0;
+    margin: 0;
+}
+
+.left-column button:hover,
+.right-column ul li:hover {
+    background-color: var(--color-highlight);
+    border-bottom: 2px solid var(--color-primary);
+}
+
+.right-column ul li:hover {
+    background-color: var(--color-highlight);
+    border-bottom: 0;
+}
+
+.left-column button i {
+    font-size: 48px;
+    color: var(--color-primary);
+}
+
+.left-column button div {
+    text-align: left;
+    /* line-height: 8px; */
+}
+
+.right-column {
+    height: auto;
+    /* max-height: 0; */
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+    width: 65%;
+}
+
+.right-column.show {
+    max-height: 200px;
+}
+
+
+@media (max-width: 900px) {
+    .card-utl {
+        width: 80%;
+        flex-direction: column;
+    }
+
+    .vl {
+        border-top: 3px solid var(--color-highlight);
+        width: auto;
+    }
+
+    .right-column,
+    .left-column {
+        width: 100%;
+    }
+
+    #carreras-list {
+        font-size: 14px;
+    }
+}

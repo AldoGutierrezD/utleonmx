@@ -1,0 +1,162 @@
+{
+    "becasInternas": [
+        {
+            "titulo": "Convocatoria de becas",
+            "descripcion": [],
+            "labels": [
+                {
+                    "texto": "Cerrada",
+                    "color": "#FF4040"
+                }
+            ]
+        },
+        {
+            "titulo": "Beca alimenticia",
+            "descripcion": [],
+            "labels": [
+                {
+                    "texto": "Cerrada",
+                    "color": "#FF4040"
+                }
+            ]
+        }
+    ],
+    "becasExternas": [
+        {
+            "titulo": "Beca de Excelencia León universidad",
+            "descripcion": [
+                {
+                    "paso": "1.Características de la beca",
+                    "detalles": "El beneficio otorgado por la beca es un apoyo económico  único para el año en curso que se paga a través de folio bancario por la cantidad de $10,000.00"
+                },
+                {
+                    "paso": "2.Pérfil",
+                    "detalles": "-Ser residente del municipio de León y de nacionalidad mexicana. Estar inscrito en la UTL, con Clave de Centro de Trabajo (CCT): 11EUT0002Z. Tener un promedio igual o mayor a 9.5 en su trayecto formativo y no contar con ninguna materia reprobada"
+                },
+                {
+                    "paso": "3.Proceso de registro",
+                    "detalles": "El alumnado que cumpla con el perfil y documentación necesario, debe realizar el llenado de solicitud del 04 de octubre al 23 de octubre del 2023"
+                },
+                {
+                    "paso": "4.Resultados",
+                    "detalles": "Revisar listado de beneficiados asignados con cita a partir del 15 de noviembre del 2023 en la página"
+                }
+            ],
+            "labels": [
+                {
+                    "texto": "Abierta",
+                    "color": "#5CCB5F"
+                },
+                {
+                    "texto": "Municipal",
+                    "color": "#F7D547"
+                }
+            ]
+        },
+        {
+            "titulo": "Beca para jóvenes embarazadas y madres",
+            "descripcion": [
+                {
+                    "paso": "1.Características de la beca",
+                    "detalles": "Las beneficiarias serán acreedoras a un apoyo económico de $5,400.00 MXN"
+                },
+                {
+                    "paso": "2.Pérfil",
+                    "detalles": "Mujer de 13 a 25 años embarazada o con hijos. Ser Guanajuatense, por nacimiento o residencia mínima de dos años comprobables"
+                },
+                {
+                    "paso": "3.Proceso para realizar la solicitud",
+                    "detalles": "Las personas solicitantes deben capturar su solicitud y subir su documentación completa en formato PDF en la plataforma de JuventudEsGto hasta antes del 30 de octubre del 2023"
+                },
+                {
+                    "paso": "4.Restricciones",
+                    "detalles": "No podrán contar con algún otro beneficio equivalente que sea de tipo económico o en especie otorgado para el mismo fin por JuventudEsGto"
+                },
+                {
+                    "paso": "5.Resultados",
+                    "detalles": "La publicación se realizará por cortes, en las siguientes fechas: 1er corte 15 de septiembre, 2do corte 29 de septiembre, 3er corte 13 de octubre, 4to corte 26 de octubre, 5to corte 17 de noviembre"
+                }
+            ],
+            "labels": [
+                {
+                    "texto": "Abierta",
+                    "color": "#5CCB5F"
+                },
+                {
+                    "texto": "Estatal",
+                    "color": "#AF69CD"
+                }
+            ]
+        },
+        {
+            "titulo": "Beca de excelencia académica. Becalos-HEB-UTL, Ciclo 2023-2024",
+            "descripcion": [
+                {
+                    "paso": "1.Características de la beca",
+                    "detalles": "La beca consiste en un apoyo económico total de $12,000.00 (Doce mil pesos 00/100 M.N.), que será entregado, de acuerdo a lo siguiente:"
+                },
+                {
+                    "paso": "2.Pérfil",
+                    "detalles": "Ser mexicano(a). Estar inscrito(a) en 7° o 10° ING. Provenir de familias cuyo ingreso sea menor a 4 SMM. Contar con promedio general mínimo de 8.5, Ciclo 2022-2023. No haber concluido alguna otra licenciatura o TSU"
+                },
+                {
+                    "paso": "3.Proceso para realizar la solicitud",
+                    "detalles": "Los estudiantes que cumplan con los requisitos establecidos en la Convocatoria, deberán realizar a partir del 09 de octubre y teniendo como fecha límite 13 de octubre del 2023, para registro y entrega de documentos (expediente físico en folder beige o paja)  en Servicios Escolares, Edificio CVD, Planta Baja, antes de las 5:00 pm."
+                },
+                {
+                    "paso": "4.Resultados",
+                    "detalles": "Los resultados se compartirán vía correo electrónico a partir del día 27 de octubre del presente año. En caso de resultar beneficiado o beneficiada de esta BECA, recibirá una notificación a su cuenta de correo electrónico institucional y personal registrada en SITO, con la información del procedimiento a seguir y las fechas de atención al cumplimiento de los compromisos y obligaciones de esta Convocatoria."
+                }
+            ],
+            "labels": [
+                {
+                    "texto": "Abierta",
+                    "color": "#5CCB5F"
+                },
+                {
+                    "texto": "Particular",
+                    "color": "#FFA333"
+                }
+            ]
+        }
+    ],
+    "servicioBecario": [
+        {
+            "titulo": "Convocatoria de Registro de Proyecto/Personal Administrativo y Académico UTL",
+            "descripcion": [
+                {
+                    "paso": "¿Qué es el servicio becario?",
+                    "detalles": "Servicio Becario es el compromiso que adquiere el alumnado que es beneficiario de la Beca Interna UTL, equivalente a 32 horas de actividades cuatrimestrales, conforme a lo establecido en el Reglamento Académico en su Capítulo III, Artículo 113 y 114."
+                },
+                {
+                    "paso": "¿Cuál es el tiempo para realizar servicio becario?",
+                    "detalles": "Inicia las actividades de Servicio Becario desde la segunda semana y hasta la semana diez marcada en el calendario institucional UTL."
+                },
+                {
+                    "paso": "¿Dónde reviso los proyectos y cómo me postulo al Servicio Becario?",
+                    "detalles": "1. Ingresa a tu sesión personal de SITO. 2. Sigue la siguiente ruta: Becas / 5. Proceso de Servicio Becario / Proyectos de Servicio Becario. 3. Revisa la lista de Proyectos de Servicio Becario disponibles."
+                },
+                {
+                    "paso": "¿Dónde reviso mi liberación de Servicio Becario?",
+                    "detalles": "Como beneficiario o beneficiaria de Beca Interna UTL, tienes la responsabilidad de dar seguimiento y verificar cuál es el estatus de tu servicio becario, para ello, ingresa a tu sesión personal de SITO en el apartado Becas / 2. Proceso Beca Interna / Solicitud de Beca /Servicio Becario"
+                }
+            ],
+            "labels": [
+                {
+                    "texto": "Cerrada",
+                    "color": "#FF4040"
+                }
+            ]
+        },
+        {
+            "titulo": "Proceso de Servicio Becario/Alumnado Becado",
+            "descripcion": [],
+            "labels": [
+                {
+                    "texto": "Abierta",
+                    "color": "#5CCB5F"
+                }
+            ]
+        }
+    ]
+}

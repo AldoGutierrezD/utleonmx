@@ -1,0 +1,155 @@
+:root {
+    --color-primary: #00B293;
+    --color-primary-dark: #009D94;
+    --color-secondary: #2196F3;
+    --color-secondary-md: #255C6F;
+    --color-secondary-dark: #2F4858;
+    --color-orange: #E57B25;
+    --color-background: #EEF2ED;
+    --color-highlight: #F3F3F3;
+    --color-white: #FFF;
+    --color-black: #000;
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url('../../src/fonts/InterTight-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../../src/fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.modelo-estudios {
+    width: 70%;
+    display: flex;
+    gap: 80px;
+    margin: 60px 0;
+}
+
+.modelo-cuatrimestres {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.modelo-porcentajes {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.modelo-tsu {
+    display: flex;
+    gap: 20px;
+}
+
+.modelo-ing-lic {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.modelo-tsu .vl,
+.modelo-estudios .vl {
+    border-left: 3px solid var(--color-secondary-dark);
+}
+
+.modelo-tsu>div,
+.modelo-ing-lic>div {
+    text-align: center;
+}
+
+.modelo-title {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+
+.modelo-turno {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 18px;
+    margin: 5px 0 20px 0;
+}
+
+.cuatrimestres-tsu,
+.cuatrimestres-ing-lic {
+    font-size: 45px;
+    font-weight: bold;
+    color: var(--color-primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+    font-family: 'Inter-Regular';
+}
+
+.cuatrimestres-ing-lic {
+    color: var(--color-orange);
+}
+
+.modelo-porcentajes>div {
+    width: 100%;
+}
+
+.modelo-porcentajes>div>p {
+    font-family: 'Inter-Regular';
+    font-size: 20px;
+    color: var(--color-primary);
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.modelo-porcentajes>div:last-child>p {
+    color: var(--color-secondary);
+}
+
+.modelo-porcentajes>div>p>span {
+    font-family: 'Inter-Regular';
+    font-size: 15px;
+    font-weight: bold;
+    color: var(--color-black);
+}
+
+.modelo-porcentajes>div>div {
+    width: 70%;
+    height: 20px;
+    border-radius: 10px;
+    background-color: var(--color-primary);
+}
+
+.modelo-porcentajes>div:last-child>div {
+    width: 30%;
+    background-color: var(--color-secondary);
+}
+
+@media (max-width: 900px) {
+    .modelo-estudios {
+        width: 80%;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .modelo-cuatrimestres,
+    .modelo-porcentajes {
+        width: 100%;
+    }
+
+    .modelo-porcentajes {
+        justify-content: start;
+        align-items: start;
+    }
+}

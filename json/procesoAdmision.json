@@ -1,0 +1,99 @@
+{
+    "procesoTSU": [
+        {
+            "info_general": "Información General",
+            "info_general_detalles": [
+                "Venta de fichas: 03 al 31 de julio 2024",
+                "Costo de ficha: $450.00 (la fecha límite para realizar el pago: 31 de julio)",
+                "Fecha de examen: 11 de agosto",
+                "Inicio de clases: 04 de septiembre del 2024",
+                "Costo de inscripción: $2,111.00 (No existen costos adicionales a los presentados)"
+            ],
+            "detalles": [
+                {
+                    "paso": "1.Carreras y Turnos disponibles",
+                    "descripcion": [
+                        "Lógistica área Transporte Terrestre: Matutino: Campus Central: 07:00 a 15:15 hrs(2 años)",
+                        "Química área Tecnlogía Ambiental: Matutino: Campus Central: 07:00 a 15:15 hrs(2 años). Vespertino: Campus Central: 17:10 a 21:20 hrs(3 años)",
+                        "Mantenimiento área Industrial: Matutino: Campus Central: 07:00 a 15:15 hrs(2 años). Vespertino: Campus Central: 17:10 a 21:20 hrs(3 años)",
+                        "Mecatrónica área Sistemas de Manufactura Flexible: Matutino: Campus Central: 07:00 a 15:15 hrs(2 años). Vespertino: Campus Central: 17:10 a 21:20 hrs(3 años)",
+                        "Procesos Industriales área Manufactura: Matutino: Campus Central: 07:00 a 15:15 hrs(2 años). Vespertino: Campus Central: 17:10 a 21:20 hrs(3 años)",
+                        "Mecatrónica área Optomecatrónica: Matutino: Campus Central: 07:00 a 15:15 hrs(2 años)",
+                        "TI área Entornos Virtuales y Negocios Digitales: Matutino: Campus Central: 07:00 a 15:15 hrs(2 años). Vespertino: Campus Central: 17:10 a 21:20 hrs(3 años)",
+                        "TI área Infraestructura de Redes Digitales: Matutino: Campus Central: 07:00 a 15:15 hrs(2 años). Vespertino: Campus Central: 17:10 a 21:20 hrs(3 años)",
+                        "Turismo área Hotelería: Matutino: Campus Central: 07:00 a 15:15 hrs(2 años)"
+                    ]
+                },
+                {
+                    "paso": "2.Registro de ficha",
+                    "descripcion": [
+                        "Debes contar con CURP",
+                        "Debes contar con la CLAVE DE CENTRO DE TRABAJO de tu preparatoria para que puedas realizar el cuestionario",
+                        "Tienes hasta el 03 al 31 de julio para realizar el registro y el pago"
+                    ]
+                },
+                {
+                    "paso": "3.Correo institucional",
+                    "descripcion": [
+                        "En la referencia de pago de ficha aparecerá tu correo institucional el cual deberás configurar y activar en la plataforma Microsoft 365 para Outlook del 1 al 04 de agosto."
+                    ]
+                },
+                {
+                    "paso": "4.Examen",
+                    "descripcion": [
+                        "El 08 de agosto recibirás en tu correo institucional el instructivo para realizar el examen el 11 de agosto",
+                        "En caso de no recibir el instructivo en la fecha indicada, acude de manera presencial a las oficinas de Servicios Escolares en el edificio CVD planta baja en un horario de 9:00 a 18:00 hrs"
+                    ]
+                },
+                {
+                    "paso": "5.Resultados",
+                    "descripcion": [
+                        "El 18 de agosto podrás consultar los resultados a nivel TSU con tu folio de admisión de 5 dígitos el cual obtuviste en el registro de tu ficha."
+                    ]
+                }
+            ]
+        }
+    ],
+    "procesoING": [
+        {
+            "info_general": "Información Importante",
+            "info_general_detalles": [
+                "Venta de fichas: 30 de mayo al 04 de agosto",
+                "Costo de ficha: $450.00 (la fecha límite para realizar el pago: 08 de agosto)",
+                "Inicio de clases: 04 de septiembre del 2024"
+            ],
+            "detalles": [
+                {
+                    "paso": "1.Carreras y Turnos disponibles",
+                    "descripcion": [
+                        "Licenciatura en Gestión de Capital Humano: Campus II: Lunes a Viernes de 15:20 a 19:30 hrs y Sábado de 8:00 a 13:00 hrs",
+                        "Licenciatura en Innovación de Negocios y Mercadotecnia: Campus II:  Lunes a Viernes de 15:20 a 19:30 hrs y Sábado de 8:00 a 13:00 hrs",
+                        "Licenciatura en Diseño y Gestión de Redes Logísticas: Campus Central:  Lunes a Viernes de 17:10 a 21:00 hrs y Sábado de 8:00 a 12:10 hrs",
+                        "Licenciatura en Gastronomía: Campus Central:  Lunes a Viernes de 17:10 a 21:00 hrs y Sábado de 8:00 a 12:10 hrs",
+                        "Licenciatura en Gestión y Desarrollo Turístico: Campus Central:  Lunes a Viernes de 17:10 a 21:00 hrs y Sábado de 8:00 a 12:10 hrs",
+                        "Ingeniería en Tecnología Ambiental: Campus Central:  Lunes a Viernes de 17:00 a 21:00 hrs y Sábado de 8:00 a 12:10 hrs",
+                        "Ingeniería en Entornos Virtuales y Negocios Digitales: Campus Central:  Lunes a Viernes de 17:10 a 21:00 hrs y Sábado de 8:00 a 12:10 hrs",
+                        "Ingeniería en Desarrollo y Gestión de Software: Campus Central:  Lunes a Viernes de 17:10 a 21:00 hrs y Sábado de 8:00 a 12:10 hrs",
+                        "Ingeniería en Redes Inteligentes y Ciberseguridad: Campus Central:  Lunes a Viernes de 17:10 a 21:00 hrs y Sábado de 8:00 a 12:10 hrs",
+                        "Ingeniería en Mantenimiento Industrial: Campus Central:  Lunes a Viernes de 17:10 a 21:00 hrs y Sábado de 8:00 a 12:10 hrs",
+                        "Ingeniería en Mecatrónica: Campus Central:  Lunes a Viernes de 17:10 a 21:00 hrs y Sábado de 8:00 a 12:10 hrs",
+                        "Ingeniería en Sistemas Productivos: Campus Central:  Lunes a Viernes de 17:10 a 21:00 hrs y Sábado de 8:00 a 12:10 hrs"
+                    ]
+                },
+                {
+                    "paso": "2.Pre-registro",
+                    "descripcion": [
+                        "EGRESADOS DE UTL: Recibirás un folio el cual utilizarás durante todo el proceso. Realiza el pago de la ficha de admisión en BANCOMER, tienes hasta el 08 de agosto.",
+                        "DESDE OTRA UT: Enviar correo a gjimenez@utleon.edu.mx con lo siguiente: CURP, Copia del certificado de bachillerato, Constancia de calificaciones, Mapa curricular de TSU."
+                    ]
+                },
+                {
+                    "paso": "3.Resultados",
+                    "descripcion": [
+                        "Podrás consultarlos a partir del 18 de agosto desde el SITO."
+                    ]
+                }
+            ]
+        }
+    ]
+}

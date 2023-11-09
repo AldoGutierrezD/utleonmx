@@ -1,0 +1,36 @@
+{
+    "imss": [
+        {
+            "titulo": "Obtén tu número de seguro",
+            "descripcion": [
+                "A través del siguiente en lase, podras adquirir tu Número de Seguridad Social (NSS)"
+            ],
+            "link": "https://serviciosdigitales.imss.gob.mx/gestionAsegurados-web-externo/asignacionNSS"
+        },
+        {
+            "titulo": "Descarga la vigencia de derechos",
+            "descripcion": [
+                "Con tu NSS podrás descargar tu constancia de vigencia de derechos, para verificar que no estes afiliado a ninguna institución"
+            ],
+            "link": "https://serviciosdigitales.imss.gob.mx/gestionAsegurados-web-externo/asignacionNSS"
+        },
+        {
+            "titulo": "Solicitud de alta",
+            "descripcion": [
+                "Para hacer la solicitud de alta del seguro con la UTL, envía la vigencia de derechos en PDF a la  dirección de correo electrónico para realizar la solicitud  btellez@utleon.edu.mx con los siguientes datos:",
+                "• Matrícula",
+                "• Carrera"
+            ],
+            "link": ""
+        },
+        {
+            "titulo": "Respuesta",
+            "descripcion": [
+                "Se te informará la fecha en que deberás verificar si ya te encuentras registrado (a) con la UTL y deberás descargar nuevamente la vigencia de derechos.",
+                "Es necesario que acudas a tu clínica para solicitar la cartilla de citas y concluir con el proceso.",
+                "Verifica la clínica en el siguiente link"
+            ],
+            "link": "http://www.imss.gob.mx/servicios-digitales/tutoriales/consulta-clinica"
+        }
+    ]
+}

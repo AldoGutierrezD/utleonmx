@@ -1,0 +1,60 @@
+{
+    "recuperacion": [
+        {
+            "titulo": "Paso 1",
+            "descripcion": [
+                "Todas tus calificaciones del 3er parcial deben estar capturadas."
+            ]
+        },
+        {
+            "titulo": "Paso 2",
+            "descripcion": [
+                "Ingresar a su cuenta SITO para descargar la referencia de pago: 1- Reinscripción y referencias de pago / 2- Referencias de Extraordinario y Recuperación / Referencia de Pago de Examen de recuperación."
+            ]
+        },
+        {
+            "titulo": "Paso 3",
+            "descripcion": [
+                "Realizar el pago el 23 y 24 de Agosto del 2023."
+            ]
+        },
+        {
+            "titulo": "Paso 4",
+            "descripcion": [
+                "Antes de realizar el examen de recuperación, presenta el recibo y referencia de pago al docente asignado."
+            ]
+        }
+    ],
+    "extraordinario": [
+        {
+            "titulo": "Paso 1",
+            "descripcion": [
+                "Deberás contar con un estatus de Inscrito en el periodo Septiembre - Diciembre 2023."
+            ]
+        },
+        {
+            "titulo": "Paso 2",
+            "descripcion": [
+                "Ingresar a su cuenta SITO para descargar la referencia de pago: 1- Reinscripción y referencias de pago / 2- Referencias de Extraordinario y Recuperación / Referencia de Pago de Examen Extraordinario."
+            ]
+        },
+        {
+            "titulo": "Paso 3",
+            "descripcion": [
+                "Realizar el pago el 4 y 30 de Septiembre del 2023."
+            ]
+        },
+        {
+            "titulo": "Paso 4",
+            "descripcion": [
+                "Verifica que en tu cuenta de SITO que tu pago de extraordinario se encuentre validado."
+            ]
+        },
+        {
+            "titulo": "Paso 5",
+            "descripcion": [
+                "En la Semana 12 del calendario escolar vigente, verifica que tu docente de extraordinario capture tu calificación."
+            ]
+        }
+    ]
+}

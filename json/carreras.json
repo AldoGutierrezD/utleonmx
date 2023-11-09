@@ -1,0 +1,1417 @@
+{
+   "carreraTSU": [
+      {
+         "titulo": "TSU EN TI ÁREA ENTORNOS VIRTUALES Y NEGOCIOS DIGITALES",
+         "slug": "tsu_en_ti_area_entornos_virtuales_y_negocios_digitales",
+         "plan_materias": [
+            {
+               "titulo": "1er Cuatrimestre",
+               "materias": [
+                  "Álgebra Lineal",
+                  "Desarrollo de Habilidades de Pensamiento Lógico",
+                  "Expresión Oral y Escrita I",
+                  "Formación Sociocultural I",
+                  "Fundamentos de Redes",
+                  "Fundamentos de T I",
+                  "Inglés I",
+                  "Metodología de la Programación"
+               ]
+            },
+            {
+               "titulo": "2do Cuatrimestre",
+               "materias": [
+                  "Base de Datos",
+                  "Formación Sociocultural II",
+                  "Funciones Matemáticas",
+                  "Inglés II",
+                  "Interconexión de Redes",
+                  "Introducción al Diseño Digital",
+                  "Metodologías y Modelado de Desarrollo de Software",
+                  "Programación Orientada a Objetos"
+               ]
+            },
+            {
+               "titulo": "3ro Cuatrimestre",
+               "materias": [
+                  "Aplicaciones Web",
+                  "Cálculo Diferencial",
+                  "Diseño Digital",
+                  "Formación Sociocultural III",
+                  "Inglés III",
+                  "Integradora I",
+                  "Mercadotecnia Digital",
+                  "Sistemas Operativos"
+               ]
+            },
+            {
+               "titulo": "4to Cuatrimestre",
+               "materias": [
+                  "Administración de Proyectos",
+                  "Desarrollo de Aplicaciones de Realidad Aumentada",
+                  "Formación Sociocultural IV",
+                  "Frameworks de Desarrollo Web",
+                  "Inglés IV",
+                  "Modelado Digital",
+                  "Probabilidad y Estadística"
+               ]
+            },
+            {
+               "titulo": "5to Cuatrimestre",
+               "materias": [
+                  "Animación en 3D",
+                  "Desarrollo de Aplicaciones de Realidad Virtual",
+                  "Desarrollo de Aplicaciones para Negocios Digitales",
+                  "Expresión Oral y Escrita II",
+                  "Inglés V",
+                  "Integradora II",
+                  "Producción Audiovisual"
+               ]
+            },
+            {
+               "titulo": "6to Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Proviene preferentemente de un bachillerato del Área Económico-Administrativo y/o Físico-matemático.",
+            "Cuenta con habilidades personales tales como: innovación, creatividad, organización, administración, capacidad de comunicación, abstracción y razonamiento lógico-matemático.",
+            "Entre sus intereses se encuentran la grabación y reproducción de contenido audiovisual, el diseño, programación web, Marketing digital, diseño multimedia, así como la edición de fotografía, video, y desarrollo de videojuegos, pasión por crear experiencias de usuario en comercio electrónico, realidad virtual, realidad aumentada y producción de videos 360°."
+         ],
+         "perfil_egreso": [
+            "La/el egresada/o de TSU en Multimedia y Comercio Electrónico aplicará las técnicas de administración, diseño y desarrollo de software, para ofertar servicios de innovación tecnológica de productos multimedia y comercio electrónico; será capaz de administrar de manera eficaz servidores web, sitios de comercio electrónico, redes sociales y centros de cómputo, desarrollar aplicaciones web y móviles, proyectos con realidad aumentada, realidad virtual, edición de audio y video, videojuegos en 2D y 3D."
+         ]
+      },
+      {
+         "titulo": "TSU EN TI ÁREA DESARROLLO DE SOFTWARE MULTIPLATAFORMA",
+         "slug": "tsu_en_ti_area_desarrollo_de_software_multiplataforma",
+         "plan_materias": [
+            {
+               "titulo": "1er Cuatrimestre",
+               "materias": [
+                  "Álgebra Lineal",
+                  "Desarrollo de Habilidades de Pensamiento Lógico",
+                  "Expresión Oral y Escrita I",
+                  "Formación Sociocultural I",
+                  "Fundamentos de Redes",
+                  "Fundamentos de T I",
+                  "Inglés I",
+                  "Metodología de la Programación"
+               ]
+            },
+            {
+               "titulo": "2do Cuatrimestre",
+               "materias": [
+                  "Base de Datos",
+                  "Formación Sociocultural II",
+                  "Funciones Matemáticas",
+                  "Inglés II",
+                  "Interconexión de Redes",
+                  "Introducción al Diseño Digital",
+                  "Metodologías y Modelado de Desarrollo de Software",
+                  "Programación Orientada a Objetos"
+               ]
+            },
+            {
+               "titulo": "3ro Cuatrimestre",
+               "materias": [
+                  "Aplicaciones Web",
+                  "Bases de Datos para Aplicaciones",
+                  "Cálculo Diferencial",
+                  "Formación Sociocultural III",
+                  "Inglés III",
+                  "Integradora I",
+                  "Probabilidad y Estadística",
+                  "Sistemas Operativos"
+               ]
+            },
+            {
+               "titulo": "4to Cuatrimestre",
+               "materias": [
+                  "Aplicaciones Web Orientada a Servicios",
+                  "Diseño de Apps",
+                  "Estándares y Métricas para el Desarrollo de Software",
+                  "Estructura de Datos Aplicadas",
+                  "Evaluación y Mejora para el Desarrollo de Software",
+                  "Formación Sociocultural IV",
+                  "Inglés IV",
+                  "Principios para IoT"
+               ]
+            },
+            {
+               "titulo": "5to Cuatrimestre",
+               "materias": [
+                  "Aplicaciones de IoT",
+                  "Aplicaciones Web para I4.0",
+                  "Bases de Datos para Cómputo en la Nube",
+                  "Desarrollo Móvil Multiplataforma",
+                  "Expresión Oral y Escrita II",
+                  "Inglés V",
+                  "Integradora II"
+               ]
+            },
+            {
+               "titulo": "6to Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Proviene preferentemente de un bachillerato con áreas de especialidad Físico-Matemático y/o Técnico/a en Informática.",
+            "Cuenta con habilidades tales como razonamiento lógicomatemático, creatividad, pensamiento crítico y analítico, trabajo autónomo y colaborativo, autoaprendizaje e investigación.",
+            "Entre sus intereses se encuentra la búsqueda de soluciones para resolver problemas por medio del uso de tecnologías de la información y la ética profesional."
+         ],
+         "perfil_egreso": [
+            "El/la egresado/a de TSU en Tecnologías de Información y Comunicación área Sistemas Informáticos será capaz de analizar y modelar los requerimientos del sistema de información, desarrollar aplicaciones en distintas plataformas como escritorio, web y móviles, diseñar y aplicar pruebas de software, desarrollar y administrar bases de datos, aplicando modelos internacionales en desarrollo de software y adaptándose a las nuevas exigencias que el mundo globalizado exige."
+         ]
+      },
+      {
+         "titulo": "TSU EN TI ÁREA INFRAESTRUCTURA DE REDES DIGITALES",
+         "slug": "tsu_en_ti_area_infraestructura_de_redes_digitales",
+         "plan_materias": [
+            {
+               "titulo": "1er Cuatrimestre",
+               "materias": [
+                  "Álgebra Lineal",
+                  "Desarrollo de Habilidades de Pensamiento Lógico",
+                  "Expresión Oral y Escrita I",
+                  "Formación Sociocultural I",
+                  "Fundamentos de Redes",
+                  "Fundamentos de T I",
+                  "Inglés I",
+                  "Metodología de la Programación"
+               ]
+            },
+            {
+               "titulo": "2do Cuatrimestre",
+               "materias": [
+                  "Base de Datos",
+                  "Formación Sociocultural II",
+                  "Funciones Matemáticas",
+                  "Inglés II",
+                  "Interconexión de Redes",
+                  "Introducción al Diseño Digital",
+                  "Metodologías y Modelado de Desarrollo de Software",
+                  "Programación Orientada a Objetos"
+               ]
+            },
+            {
+               "titulo": "3ro Cuatrimestre",
+               "materias": [
+                  "Aplicaciones Web",
+                  "Cálculo Diferencial",
+                  "Conmutación en Redes de Datos",
+                  "Formación Sociocultural III",
+                  "Infraestructura de Redes de Datos",
+                  "Inglés III",
+                  "Integradora I",
+                  "Sistemas Operativos"
+               ]
+            },
+            {
+               "titulo": "4to Cuatrimestre",
+               "materias": [
+                  "Aplicaciones Web",
+                  "Cálculo Diferencial",
+                  "Conmutación en Redes de Datos",
+                  "Formación Sociocultural III",
+                  "Infraestructura de Redes de Datos",
+                  "Inglés III",
+                  "Integradora I",
+                  "Sistemas Operativos"
+               ]
+            },
+            {
+               "titulo": "5to Cuatrimestre",
+               "materias": [
+                  "Administración de Redes de Datos",
+                  "Administración de Servidores II",
+                  "Ciberseguridad",
+                  "Expresión Oral y Escrita II",
+                  "Inglés V",
+                  "Integradora II",
+                  "Introducción a Big Data"
+               ]
+            },
+            {
+               "titulo": "6to Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Proviene preferentemente de un bachillerato de las áreas físico matemático y/o bachillerato con carrera técnica en Informática o afín.",
+            "Cuenta con habilidades como: destreza manual, mecánica, visualización de gestión de proyectos, liderazgo, administración y trabajo en equipo.",
+            "Entre sus intereses se encuentran el ser innovador/a y emprendedor/a."
+         ],
+         "perfil_egreso": [
+            "El/la egresado/a de TSU en Tecnologías de la Información y Comunicación área Redes y Telecomunicaciones aplicará las Tecnologías de la Información dando soluciones a las necesidades de trasmisión, comunicación y seguridad informática de las organizaciones. Será capaz de administrar servidores; diseñar y administrar redes estableciendo políticas de calidad en el servicio de comunicación de voz, datos y video digital en redes de área local y área extendida. Desarrollará aplicaciones de automatización de servicios en red."
+         ]
+      },
+      {
+         "titulo": "TSU EN ADMINISTRACIÓN ÁREA CAPITAL HUMANO",
+         "slug": "tsu_en_administracion_area_capital_humano",
+         "plan_materias": [
+            {
+               "titulo": "1er Cuatrimestre",
+               "materias": [
+                  "Administración de Organizaciones",
+                  "Contabilidad Básica",
+                  "Expresión Oral y Escrita I",
+                  "Formación Sociocultural I",
+                  "Informática",
+                  "Inglés I",
+                  "Matemáticas",
+                  "Mercadotecnia"
+               ]
+            },
+            {
+               "titulo": "2do Cuatrimestre",
+               "materias": [
+                  "Contabilidad Intermedia",
+                  "Diseño de Procesos y Gestión de Calidad",
+                  "Estadística Aplicada a la Administración",
+                  "Formación Sociocultural II",
+                  "Fundamentos de Economía",
+                  "Inglés II",
+                  "Matemáticas Financieras",
+                  "Metodología de la Investigación",
+                  "Modelos de Desarrollo Organizacional"
+               ]
+            },
+            {
+               "titulo": "3ro Cuatrimestre",
+               "materias": [
+                  "Análisis e Interpretación de Estados Financieros",
+                  "Desarrollo Sustentable",
+                  "Formación Sociocultural III",
+                  "Inglés III",
+                  "Integradora I",
+                  "Legislación Organizacional",
+                  "Planeación Estratégica",
+                  "Planeación Financiera",
+                  "Talento Emprendedor"
+               ]
+            },
+            {
+               "titulo": "4to Cuatrimestre",
+               "materias": [
+                  "Comportamiento Organizacional I",
+                  "Diseño y Valuación de Puestos",
+                  "Formación Sociocultural IV",
+                  "Inglés IV",
+                  "Integración de Capital Humano",
+                  "Legislación Laboral",
+                  "Sueldos y Salarios I"
+               ]
+            },
+            {
+               "titulo": "5to Cuatrimestre",
+               "materias": [
+                  "Comportamiento Organizacional II",
+                  "Desarrollo de Capital Humano",
+                  "Evaluación del Desempeño",
+                  "Expresión Oral y Escrita II",
+                  "Higiene y Seguridad Laboral",
+                  "Inglés V",
+                  "Integradora II",
+                  "Sueldos y Salarios II"
+               ]
+            },
+            {
+               "titulo": "6to Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Egresado de Bachillerato preferentemente con especialidad en el área Económico Administrativa.",
+            "Tiene competencias para ser responsable, analítico, emprendedor y de trabajar en equipo.",
+            "Tiene una visión sistémica de los procesos operativos y administrativos de las organizaciones, pasión por el trabajo colaborativo, organizado y de calidad, orientado al logro de objetivos y la mejora continua."
+         ],
+         "perfil_egreso": [
+            "El/la egresado/a de TSU en Administración área Capital Humano; optimizará los recursos de una organización, aplicando las herramientas que la administración aporta para el logro de objetivos.",
+            "Administrará y gestionará el capital humano para que contribuya con los planes estratégicos.",
+            "Diagnosticará y analizará información para integrar propuestas de mejora."
+         ]
+      },
+      {
+         "titulo": "TSU EN DESARROLLO DE NEGOCIOS ÁREA MERCADOTECNIA",
+         "slug": "tsu_en_desarrollo_de_negocios_area_mercadotecnia",
+         "plan_materias": [
+            {
+               "titulo": "1er Cuatrimestre",
+               "materias": [
+                  "Administración",
+                  "Economía",
+                  "Expresión Oral y Escrita I",
+                  "Formación Sociocultural I",
+                  "Informática I",
+                  "Inglés I",
+                  "Matemáticas",
+                  "Mercadotecnia"
+               ]
+            },
+            {
+               "titulo": "2do Cuatrimestre",
+               "materias": [
+                  "Contabilidad",
+                  "Estadística",
+                  "Formación Sociocultural II",
+                  "Informática II",
+                  "Inglés II",
+                  "Planeación Estratégica",
+                  "Sistema de Investigación de Mercados I",
+                  "Ventas"
+               ]
+            },
+            {
+               "titulo": "3ro Cuatrimestre",
+               "materias": [
+                  "Calidad",
+                  "Estrategias de Producto",
+                  "Formación Sociocultural III",
+                  "Gestión de Proyectos",
+                  "Inglés III",
+                  "Integradora I",
+                  "Legislación Comercial",
+                  "Sistema de Investigación de Mercados II"
+               ]
+            },
+            {
+               "titulo": "4to Cuatrimestre",
+               "materias": [
+                  "Comportamiento del Consumidor",
+                  "Diseño Gráfico",
+                  "Estrategias de Precio",
+                  "Formación Sociocultural IV",
+                  "Inglés IV",
+                  "Logística y Distribución",
+                  "Metodología de la Investigación",
+                  "Mezcla Promocional I"
+               ]
+            },
+            {
+               "titulo": "5to Cuatrimestre",
+               "materias": [
+                  "Expresión Oral y Escrita II",
+                  "Inglés V",
+                  "Integradora II",
+                  "Mercadotecnia Digital",
+                  "Mercadotecnia Estratégica",
+                  "Mercadotecnia Internacional",
+                  "Mezcla Promocional II"
+               ]
+            },
+            {
+               "titulo": "6to Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Proviene de un bachillerato del área Económico Administrativo y/o Físico Matemático.",
+            "Tiene interés por las ventas; el servicio y atención al cliente; así como por estrategias comerciales de empresas nacionales e internacionales.",
+            "Muestra interés y habilidad por las relaciones interpersonales, ventas, servicio al cliente, compras y almacén.",
+            "Cuenta con habilidades de negociación, creatividad y trabajo por objetivos.",
+            "Es extrovertido y tiene facilidad de palabra"
+         ],
+         "perfil_egreso": []
+      },
+      {
+         "titulo": "TSU EN TURISMO ÁREA HOTELERÍA",
+         "slug": "tsu_en_turismo_area_hoteleria",
+         "plan_materias": [
+            {
+               "titulo": "1er Cuatrimestre",
+               "materias": [
+                  "Administración",
+                  "Economía",
+                  "Expresión Oral y Escrita I",
+                  "Formación Sociocultural I",
+                  "Informática I",
+                  "Inglés I",
+                  "Matemáticas",
+                  "Mercadotecnia"
+               ]
+            },
+            {
+               "titulo": "2do Cuatrimestre",
+               "materias": [
+                  "Estadística",
+                  "Formación Sociocultural II",
+                  "Gestión de la Calidad",
+                  "Inglés II",
+                  "Servicios de Hospedaje y Alimentos y Bebidas",
+                  "Servicios de Turismo Cultural y de Naturaleza",
+                  "Sustentabilidad en el Turismo"
+               ]
+            },
+            {
+               "titulo": "3ro Cuatrimestre",
+               "materias": [
+                  "Capital Humano",
+                  "Formación Sociocultural III",
+                  "Inglés III",
+                  "Integradora I",
+                  "Mercadotecnia de Productos y Servicios Turísticos",
+                  "Métodos y Técnicas de Investigación",
+                  "Operaciones Contables y Financieras",
+                  "Servicios de Viaje"
+               ]
+            },
+            {
+               "titulo": "4to Cuatrimestre",
+               "materias": [
+                  "Administración de Habitaciones",
+                  "Calidad en Servicios de Hospitalidad",
+                  "Formación Sociocultural IV",
+                  "Francés I",
+                  "Inglés IV",
+                  "Recepción",
+                  "Reservaciones",
+                  "Ventas y Comercio Digital"
+               ]
+            },
+            {
+               "titulo": "5to Cuatrimestre",
+               "materias": [
+                  "Animación Turística y Sociocultural",
+                  "Centros de Consumo en Hotelería",
+                  "Expresión Oral y Escrita II",
+                  "Formación de Capital Humano",
+                  "Francés II",
+                  "Inglés V",
+                  "Integradora II",
+                  "Logística de Eventos",
+                  "Relaciones Públicas y Concierge"
+               ]
+            },
+            {
+               "titulo": "6to Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Proceder de un bachillerato del área Económico Administrativo y/o Humanidades.",
+            "Contar con disponibilidad para trabajar en equipo, de manera organizada, con alto sentido de la responsabilidad.",
+            "Mostrar interés y habilidad por aspectos sociológicos, la comunicación, relaciones interpersonales, solución de conflictos, ventas, servicio al cliente y los idiomas.",
+            "Disposición para relacionarse con gente de diversas culturas y/o nacionalidades."
+         ],
+         "perfil_egreso": [
+            "Administrará y operará variados tipos de establecimientos de hospedaje, incluyendo el área de hotel de hospitales",
+            "Manejará cuidadosamente establecimientos dedicados a la venta de servicios turísticos y complementarios.",
+            "Administrará, coordinará y/u operará el funcionamiento de establecimientos de alimentos y bebidas, desde la planeación de sus menús, su cocina, comedor y bar.",
+            "Coordinará el puntual funcionamiento y operación de empresas organizadoras de eventos, congresos y convenciones a nivel público o privado."
+         ]
+      },
+      {
+         "titulo": "TSU EN GASTRONOMÍA",
+         "slug": "tsu_en_gastronomia",
+         "plan_materias": [
+            {
+               "titulo": "1er Cuatrimestre",
+               "materias": [
+                  "Bases Culinarias",
+                  "Expresión Oral y Escrita I",
+                  "Formación Sociocultural I",
+                  "Informática",
+                  "Inglés I",
+                  "Introducción a la Gastronomía",
+                  "Matemáticas Aplicadas a la Gastronomía",
+                  "Seguridad e Higiene en Alimentos"
+               ]
+            },
+            {
+               "titulo": "2do Cuatrimestre",
+               "materias": [
+                  "Estadística Aplicada a la Gastronomía",
+                  "Formación Sociocultural II",
+                  "Fundamentos de Nutrición",
+                  "Inglés II",
+                  "Métodos y Técnicas Culinarias",
+                  "Panadería",
+                  "Servicios de Alimentos y Bebidas"
+               ]
+            },
+            {
+               "titulo": "3ro Cuatrimestre",
+               "materias": [
+                  "Costos y Presupuestos",
+                  "Estandarización de Platillos",
+                  "Formación Sociocultural III",
+                  "Gestión de Compras y Almacén",
+                  "Inglés III",
+                  "Operación de Bar",
+                  "Pastelería"
+               ]
+            },
+            {
+               "titulo": "4to Cuatrimestre",
+               "materias": [
+                  "Administración de Alimentos y Bebidas",
+                  "Formación Sociocultural IV",
+                  "Francés I",
+                  "Fundamentos de Vitivinicultura",
+                  "Inglés IV",
+                  "Integradora I",
+                  "Mercadotecnia de Servicios Gastronómicos",
+                  "Repostería"
+               ]
+            },
+            {
+               "titulo": "5to Cuatrimestre",
+               "materias": [
+                  "Conformación de Menús",
+                  "Evaluación de Servicios Gastronómicos",
+                  "Expresión Oral y Escrita II",
+                  "Francés II",
+                  "Inglés V",
+                  "Integradora II",
+                  "Logística de Eventos",
+                  "Métodos y Técnicas de Investigación Aplicadas a la Gastronomía"
+               ]
+            },
+            {
+               "titulo": "6to Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Proviene de un bachillerato con áreas de especialidad Económico–Administrativa o Químico–Biológicas (sin ser limitativo a otras especialidades).",
+            "Cuenta con habilidades tales como: Actitud de servicio, creativo, emprendedor, proactivo, trabajo colaborativo y bajo presión.",
+            "Entre sus intereses se encuentran la diversidad gastronómica así como el gusto por el rescate de la cocina autóctona mexicana con visión innovadora, pasión por crear experiencias inolvidables de aromas y sabores, anhelando el crecimiento en los diferentes ámbitos culinarios."
+         ],
+         "perfil_egreso": []
+      },
+      {
+         "titulo": "TSU EN LOGÍSTICA ÁREA TRANSPORTE TERRESTRE",
+         "slug": "tsu_en_logistica_area_transporte_terrestre",
+         "plan_materias": [
+            {
+               "titulo": "1er Cuatrimestre",
+               "materias": [
+                  "Almacén",
+                  "Expresión Oral y Escrita I",
+                  "Formación Sociocultural I",
+                  "Fundamentos de Administración",
+                  "Fundamentos de Inventarios",
+                  "Informática",
+                  "Inglés I",
+                  "Introducción a la Logística",
+                  "Matemáticas"
+               ]
+            },
+            {
+               "titulo": "2do Cuatrimestre",
+               "materias": [
+                  "Compras",
+                  "Control de Inventarios",
+                  "Costos",
+                  "Formación Sociocultural II",
+                  "Fundamentos de Comercio Internacional",
+                  "Inglés II",
+                  "Logística",
+                  "Manejo de la Carga",
+                  "Modelos Matemáticos"
+               ]
+            },
+            {
+               "titulo": "3ro Cuatrimestre",
+               "materias": [
+                  "Calidad",
+                  "Estadística",
+                  "Formación Sociocultural III",
+                  "Gestión de Almacén",
+                  "Inglés III",
+                  "Integradora I",
+                  "Marco Regulatorio de Comercio Internacional",
+                  "Presupuestos",
+                  "Tráfico",
+                  "Transporte"
+               ]
+            },
+            {
+               "titulo": "4to Cuatrimestre",
+               "materias": [
+                  "Calidad y Seguridad en el Transporte",
+                  "Formación Sociocultural IV",
+                  "Inglés IV",
+                  "Legislación para el Transporte",
+                  "Mantenimiento en Vehículos de Transporte Terrestre",
+                  "Modelos Matemáticos del Transporte",
+                  "Operación y Conducción de Vehículos"
+               ]
+            },
+            {
+               "titulo": "5to Cuatrimestre",
+               "materias": [
+                  "Capital Humano",
+                  "Expresión Oral y Escrita II",
+                  "Finanzas del Transporte",
+                  "Inglés V",
+                  "Integradora II",
+                  "Programación de Rutas",
+                  "Técnicas de Manipulación de la Carga",
+                  "Trazabilidad del Transporte y Carga"
+               ]
+            },
+            {
+               "titulo": "6to Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Proviene de un bachillerato del área: Fisicomatemático o Económico-Administrativa (sin ser limitativo a otras especialidades).",
+            "Cuenta con habilidades personales como apertura al cambio de nuevas ideas.",
+            "Entre sus intereses se encuentran: agrado por el área de la logística y los servicios de transporte terrestre."
+         ],
+         "perfil_egreso": [
+            "Gestionará sistemas de transporte terrestre, a través de la coordinación, la supervisión, el traslado efectivo de mercancías y pasajeros, para incrementar la satisfacción del cliente y la rentabilidad de la organización.",
+            "Dentro de sus habilidades se encontrará el capacitar al personal operativo, conducir unidades de transporte de servicio público federal, determinar condiciones de traslado, diagnosticar las condiciones del vehículo y su mantenimiento, planear la utilización de los recursos humanos, equipos y materiales, y optimizar la logística del servicio."
+         ]
+      },
+      {
+         "titulo": "TSU EN QUÍMICA ÁREA TECNOLOGÍA AMBIENTAL",
+         "slug": "tsu_en_quimica_area_tecnologia_ambiental",
+         "plan_materias": [
+            {
+               "titulo": "1er Cuatrimestre",
+               "materias": [
+                  "Administración de Laboratorios",
+                  "Álgebra Lineal",
+                  "Expresión Oral y Escrita I",
+                  "Física",
+                  "Formación Sociocultural I",
+                  "Inglés I",
+                  "Probabilidad y Estadística",
+                  "Química Básica"
+               ]
+            },
+            {
+               "titulo": "2do Cuatrimestre",
+               "materias": [
+                  "Formación Sociocultural II",
+                  "Funciones Matemáticas",
+                  "Informática I",
+                  "Inglés II",
+                  "Metodología de la Investigación",
+                  "Química Inorgánica",
+                  "Química Orgánica",
+                  "Termodinámica"
+               ]
+            },
+            {
+               "titulo": "3ro Cuatrimestre",
+               "materias": [
+                  "Administración de Proyectos",
+                  "Cálculo Diferencial",
+                  "Contaminación del Suelo",
+                  "Electricidad y Magnetismo",
+                  "Inglés III",
+                  "Integradora I",
+                  "Microbiología Ambiental",
+                  "Química Analítica"
+               ]
+            },
+            {
+               "titulo": "4to Cuatrimestre",
+               "materias": [
+                  "Análisis de Sistemas Ambientales",
+                  "Cálculo Integral",
+                  "Expresión Oral y Escrita II",
+                  "Formación Sociocultural III",
+                  "Inglés IV",
+                  "Manejo Integral de Residuos I",
+                  "Operaciones Unitarias I",
+                  "Seguridad Laboral I",
+                  "Tratamiento de Agua I"
+               ]
+            },
+            {
+               "titulo": "5to Cuatrimestre",
+               "materias": [
+                  "Contaminación de Aire por Fuentes Fijas",
+                  "Inglés V",
+                  "Integradora II",
+                  "Manejo Integral de Residuos II",
+                  "Operaciones Unitarias II",
+                  "Seguridad Laboral II",
+                  "Sistemas de Gestión Ambiental y de Calidad",
+                  "Tratamiento de Agua II"
+               ]
+            },
+            {
+               "titulo": "6to Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Proviene preferentemente de un bachillerato del área Químico-Biológico o Físico-Matemático.",
+            "Cuenta con las habilidades de comunicación correcta en forma oral y escrita, trabajo en equipo y trabajo bajo presión.",
+            "Entre sus intereses se encuentra el gusto por las ciencias exactas; especialmente por la química, gusto por la experimentación en el laboratorio, gusto por la lectura y responsabilidad social."
+         ],
+         "perfil_egreso": [
+            "Coordinará la operación de laboratorios de análisis químicos, mediante procedimientos técnicos y administrativos establecidos, apegados a la normatividad vigente, para proporcionar información confiable en la toma de decisiones y contribuir a la optimización de procesos.",
+            "Evaluará elementos de calidad ambiental, con base en la normatividad, el uso de tecnologías y el análisis de sistemas, para integrar programas ambientales, de calidad, seguridad e higiene laboral.",
+            "Planteará y solucionará problemas con base en los principios y teorías de la física, de la química y las matemáticas, a través del método científico para sustentar la toma de decisiones en los ámbitos científico y tecnológico."
+         ]
+      }
+   ],
+   "carrerasING": [
+      {
+         "titulo": "INGENIERÍA EN ENTORNOS VIRTUALES Y NEGOCIOS DIGITALES",
+         "slug": "ingenieria_en_entornos_virtuales_y_negocios_digitales",
+         "plan_materias": [
+            {
+               "titulo": "7mo Cuatrimestre",
+               "materias": [
+                  "Administración del Tiempo",
+                  "Animación Digital Avanzada",
+                  "Inglés VI",
+                  "Matemáticas para Ingeniería I",
+                  "Producción de Efectos Visuales",
+                  "Programación de Videojuegos I"
+               ]
+            },
+            {
+               "titulo": "8vo Cuatrimestre",
+               "materias": [
+                  "Base de Datos para Negocios Digitales",
+                  "Emprendimiento Digital",
+                  "Inglés VII",
+                  "Planeación y Organización del Trabajo",
+                  "Programación de Videojuegos II",
+                  "Programación para Entornos Virtuales"
+               ]
+            },
+            {
+               "titulo": "9no Cuatrimestre",
+               "materias": [
+                  "Analítica de Datos para Negocios Digitales",
+                  "Ciberseguridad Aplicada a los Negocios Digitales",
+                  "Dirección de Equipos de Alto Rendimiento",
+                  "Gestión de Proyectos I",
+                  "Inglés VIII",
+                  "Matemáticas para Ingeniería II"
+               ]
+            },
+            {
+               "titulo": "10mo Cuatrimestre",
+               "materias": [
+                  "Gestión de Proyectos II",
+                  "Inglés IX",
+                  "Integradora",
+                  "Inteligencia de Negocios",
+                  "Negociación Empresarial",
+                  "Programación de Aplicaciones Web Progresivas"
+               ]
+            },
+            {
+               "titulo": "11vo Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Capacitado en técnicas de administración, diseño y desarrollo de software.",
+            "Capaz de ofrecer servicios de innovación tecnológica de productos multimedia y comercio electrónico.",
+            "Con conocimiento en la administración servidores web, sitios de comercio electrónico, redes sociales y centros de cómputo.",
+            "Conocimiento en el desarrollo de aplicaciones web y móviles.",
+            "Dominio de proyectos con realidad aumentada, realidad virtual, edición de audio y video, videojuegos en 2D y 3D."
+         ],
+         "perfil_egreso": [
+            "Dirigir e implementar proyectos de negocios digitales y soluciones de entornos virtuales.",
+            "Desarrollo de aplicaciones progresivas.",
+            "Generación de herramientas de inteligencia en los negocios.",
+            "Desarrollo avanzado inmersivo / multisensorial considerando las necesidades del cliente.",
+            "Capacitado en la interpretación de los datos y la normatividad aplicable para contribuir a la evolución digital de las organizaciones en el marco global."
+         ]
+      },
+      {
+         "titulo": "INGENIERÍA EN DESARROLLO Y GESTIÓN DE SOFTWARE",
+         "slug": "ingenieria_en_desarrollo_y_gestion_de_software",
+         "plan_materias": [
+            {
+               "titulo": "7mo Cuatrimestre",
+               "materias": [
+                  "Administración del Tiempo",
+                  "Arquitecturas de Software",
+                  "Experiencia de Usuario",
+                  "Inglés VI",
+                  "Matemáticas para Ingeniería I",
+                  "Metodologías para el Desarrollo de Proyectos",
+                  "Seguridad Informática"
+               ]
+            },
+            {
+               "titulo": "8vo Cuatrimestre",
+               "materias": [
+                  "Administración de Bases de Datos",
+                  "Desarrollo Web Profesional",
+                  "Inglés VII",
+                  "Matemáticas para Ingeniería II",
+                  "Planeación y Organización del Trabajo",
+                  "Seguridad en el Desarrollo de Aplicaciones"
+               ]
+            },
+            {
+               "titulo": "9no Cuatrimestre",
+               "materias": [
+                  "Administración de Proyectos de TI",
+                  "Desarrollo para Dispositivos Inteligentes",
+                  "Desarrollo WEB Integral",
+                  "Dirección de Equipos de Alto Rendimiento",
+                  "Extracción de Conocimiento en Bases de Datos",
+                  "Inglés VIII"
+               ]
+            },
+            {
+               "titulo": "10mo Cuatrimestre",
+               "materias": [
+                  "Aplicaciones WEB Progresivas",
+                  "Creación de Videojuegos",
+                  "Desarrollo Móvil Integral",
+                  "Gestión del Proceso de Desarrollo de Software",
+                  "Inglés IX",
+                  "Integradora",
+                  "Negociación Empresarial"
+               ]
+            },
+            {
+               "titulo": "11vo Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Capaz de analizar y modelar requerimientos de sistemas de información.",
+            "Capacitado para desarrollar aplicaciones en distintas plataformas.",
+            "Con conocimiento en la aplicación de pruebas de software.",
+            "Desarrolle y administre bases de datos."
+         ],
+         "perfil_egreso": [
+            "Construir soluciones de software y sistemas inteligentes.",
+            "Desarrolla la gestión de proyectos, integración de metodologías, modelos y herramientas de desarrollo.",
+            "Generación de herramientas de inteligencia en los negocios.",
+            "Con un enfoque de optimización de proyectos de investigación, innovación, desarrollo tecnológico y de emprendimiento."
+         ]
+      },
+      {
+         "titulo": "INGENIERÍA EN REDES INTELIGENTES Y CIBERSEGURIDAD",
+         "slug": "ingenieria_en_redes_inteligentes_y_ciberseguridad",
+         "plan_materias": [
+            {
+               "titulo": "7mo Cuatrimestre",
+               "materias": [
+                  "Administración Avanzada de Infraestructura Virtualizada",
+                  "Administración del Tiempo",
+                  "Cálculo Integral",
+                  "Infraestructura de Centros de Datos",
+                  "Inglés VI",
+                  "Tecnologías para Manejo Masivo de Datos"
+               ]
+            },
+            {
+               "titulo": "8vo Cuatrimestre",
+               "materias": [
+                  "Cómputo en la Nube",
+                  "Dirección de Proyectos I",
+                  "Gestión de la Seguridad Informática",
+                  "Inglés VII",
+                  "Matemáticas para Ingeniería",
+                  "Planeación y Organización del Trabajo"
+               ]
+            },
+            {
+               "titulo": "9no Cuatrimestre",
+               "materias": [
+                  "Automatización de Infraestructura Digital I",
+                  "Dirección de Equipos de Alto Rendimiento",
+                  "Dirección de Proyectos II",
+                  "Hacking Ético",
+                  "Inglés VIII",
+                  "Inteligencia de Negocios",
+                  "Sistemas de Calidad para TI"
+               ]
+            },
+            {
+               "titulo": "10mo Cuatrimestre",
+               "materias": [
+                  "Administración de Redes Empresariales",
+                  "Automatización de Infraestructura Digital II",
+                  "Informática Forense",
+                  "Inglés IX",
+                  "Integradora",
+                  "Negociación Empresarial"
+               ]
+            },
+            {
+               "titulo": "11vo Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Capaz de aplicar soluciones a las necesidades de trasmisión, comunicación y seguridad informática de las organizaciones.",
+            "Será capaz de administrar servidores.",
+            "Capacitado en diseño y administración de redes, desarrollando políticas de calidad en el servicio de comunicación de voz, datos y video digital en redes de área local y área extendida.",
+            "Desarrollo de aplicaciones de automatización de servicios en red."
+         ],
+         "perfil_egreso": [
+            "Diseñar y optimizar soluciones de redes digitales.",
+            "Capaz de llevar a cabo la administración y dirección de proyectos tecnológicos.",
+            "Capacitado en normas y estándares vigentes a nivel internación, para contribuir a la continuidad de los negocios."
+         ]
+      },
+      {
+         "titulo": "LICENCIATURA EN GESTIÓN DEL CAPITAL HUMANO",
+         "slug": "licenciatura_en_gestion_del_capital_humano",
+         "plan_materias": [
+            {
+               "titulo": "7mo Cuatrimestre",
+               "materias": [
+                  "Administración de Proyectos de Capital Humano",
+                  "Administración del Tiempo",
+                  "Inglés VI",
+                  "Investigación Cualitativa",
+                  "Pedagogía Empresarial",
+                  "Sociología del Trabajo"
+               ]
+            },
+            {
+               "titulo": "8vo Cuatrimestre",
+               "materias": [
+                  "Capacitación del Capital Humano",
+                  "Cultura Corporativa",
+                  "Inglés VII",
+                  "Inteligencia Emocional",
+                  "Planeación y Organización para el Trabajo"
+               ]
+            },
+            {
+               "titulo": "9no Cuatrimestre",
+               "materias": [
+                  "Dirección de Equipos de Alto Rendimiento",
+                  "Gestión del Cambio Organizacional",
+                  "Herramientas de Gestión de Personal",
+                  "Inglés VIII",
+                  "Sistema de Gestión de la Calidad"
+               ]
+            },
+            {
+               "titulo": "10mo Cuatrimestre",
+               "materias": [
+                  "Auditoría de Calidad",
+                  "Consultoría en Capital Humano",
+                  "Inglés IX",
+                  "Integradora",
+                  "Negociación Empresarial",
+                  "Responsabilidad Social Aplicada"
+               ]
+            },
+            {
+               "titulo": "11vo Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Problemas básicos de matemáticas financieras y contabilidad.",
+            "Fundamentos de contabilidad.",
+            "Conceptos básicos de las ciencias administrativas.",
+            "Ordenamientos jurídicos que regulan la práctica contable.",
+            "Registro contable manual y electrónico de operaciones comerciales.",
+            "Sistema Analítico para registrar pérdidas o ganancias en una empresa.",
+            "Sistema de inventarios perpetuos, sistemas de pólizas y estados financieros.",
+            "Nociones de Derecho."
+         ],
+         "perfil_egreso": [
+            "Realizar todo el proceso de reclutamiento, selección y contratación del personal.",
+            "Manejar las prestaciones y beneficios a favor del talento, desde los obligatorios hasta los que generan mayor productividad y motivación, para contribuir con la retención del personal sobresaliente.",
+            "Evaluar estratégicamente las competencias a los candidatos a un puesto.",
+            "Trabajar en equipo.",
+            "Manejar con habilidad principios básicos de la administración y herramientas de comunicación que le permitan dialogar con fluidez y claridad.",
+            "Dirigir su propia empresa de capital humano.",
+            "Encabezar el departamento de capital humano en instituciones públicas y privadas.",
+            "Ser un buscador de talento para la organización en la que se desempeñe.",
+            "Capacitador en temas de planeación y desarrollo de capital humano.",
+            "Consultor en materia de gestión de capital humano."
+         ]
+      },
+      {
+         "titulo": "LICENCIATURA EN INNOVACIÓN DE NEGOCIOS Y MERCADOTECNIA",
+         "slug": "licenciatura_en_innovacion_de_negocios_y_mercadotecnia",
+         "plan_materias": [
+            {
+               "titulo": "7mo Cuatrimestre",
+               "materias": [
+                  "Administración del Tiempo",
+                  "Desarrollo de Nuevos Productos",
+                  "Estadística Aplicada a los Negocios",
+                  "Inglés VI",
+                  "Inteligencia de Mercados"
+               ]
+            },
+            {
+               "titulo": "8vo Cuatrimestre",
+               "materias": [
+                  "Administración de la Producción",
+                  "Gestión del Talento Humano",
+                  "Inglés VII",
+                  "Planeación y Organización del Trabajo",
+                  "Sueldos y Salarios",
+                  "Tendencia del Mercado y Consumidor Global"
+               ]
+            },
+            {
+               "titulo": "9no Cuatrimestre",
+               "materias": [
+                  "Comunicación Integral de Mercadotecnia",
+                  "Cultura Emprendedora",
+                  "Dirección de Equipos de Alto Rendimiento",
+                  "Finanzas",
+                  "Inglés VIII",
+                  "Planeación y Seguimiento de Proyectos"
+               ]
+            },
+            {
+               "titulo": "10mo Cuatrimestre",
+               "materias": [
+                  "Cadena de Suministros",
+                  "Comunicación Ejecutiva",
+                  "Inglés IX",
+                  "Integradora",
+                  "Negociación Empresarial",
+                  "Plan de Negocios"
+               ]
+            },
+            {
+               "titulo": "11vo Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Espíritu emprendedor.",
+            "Es creativo e innovador.",
+            "Analiza y plantea alternativas de creación de proyectos para pequeñas empresas.",
+            "Continuo desarrollo del pensamiento estratégico.",
+            "Interés por los procesos mercadológicos.",
+            "Conocimientos básicos de los procesos administrativos de la empresa.",
+            "Interés por el área comercial, la investigación de mercados y el análisis financiero.",
+            "Capacidad de trabajo en equipo y liderazgo.",
+            "Uso y manejo de tecnologías de la información y herramientas tecnológicas.",
+            "Búsqueda de soluciones y toma de decisiones.",
+            "Capacidad diagnóstica y de experimentación.",
+            "Razonamiento lógico y analítico.",
+            "Visión de negocio.",
+            "Pensamiento crítico.",
+            "Actitud emprendedora.",
+            "Liderazgo proactivo.",
+            "Espíritu de servicio.",
+            "Interés por el trabajo intelectual.",
+            "Visión y compromiso por el desarrollo sustentable."
+         ],
+         "perfil_egreso": [
+            "Utilizar las tácticas y técnicas en innovación y dirección empresarial para el fomento de nuevos productos y servicios.",
+            "Fomentar una cultura empresarial innovadora.",
+            "Identificar oportunidades y amenazas en el mercado.",
+            "Innovar y desarrollar productos y servicios de acuerdo a las necesidades de los mercados meta.",
+            "Desarrollar estrategias creativas para informar, persuadir y recordar al consumidor los atributos o beneficios de los bienes y servicios.",
+            "Implementar las nuevas tecnologías de la información y comunicación para dar a conocer productos y servicios, respetando las ideologías de los integrantes de la sociedad.",
+            "Elaborar pronósticos de ventas alcanzables, que permitan a la organización mantener un flujo continuo de efectivo.",
+            "Determinar la viabilidad del proyecto de inversión que permita a la organización expandir sus operaciones abarcando distintos segmentos de mercado."
+         ]
+      },
+      {
+         "titulo": "LICENCIATURA EN GESTIÓN Y DESARROLLO TURÍSTICO",
+         "slug": "licenciatura_en_gestion_y_desarrollo_turistico",
+         "plan_materias": [
+            {
+               "titulo": "7mo Cuatrimestre",
+               "materias": [
+                  "Administración del Tiempo",
+                  "Análisis e Interpretación de Información para el Sector Turístico",
+                  "Calidad y Responsabilidad Social",
+                  "Desarrollo del Capital Humano en la Organización",
+                  "Economía para el Turismo",
+                  "Inglés VI"
+               ]
+            },
+            {
+               "titulo": "8vo Cuatrimestre",
+               "materias": [
+                  "Control Administrativo en el Turismo",
+                  "Finanzas para el Turismo",
+                  "Gestión y Planificación Turística",
+                  "Inglés VII",
+                  "Planeación y Organización del Trabajo"
+               ]
+            },
+            {
+               "titulo": "9no Cuatrimestre",
+               "materias": [
+                  "Desarrollo de Proyectos para el Turismo I",
+                  "Dirección de Equipos de Alto Rendimiento",
+                  "Inglés VIII",
+                  "Innovación y Turismo Responsable",
+                  "Mercadotecnia Estratégica"
+               ]
+            },
+            {
+               "titulo": "10mo Cuatrimestre",
+               "materias": [
+                  "Desarrollo de Proyectos para el Turismo II",
+                  "Destinos Turísticos Inteligentes",
+                  "Inglés IX",
+                  "Instrumentos para el Desarrollo Sustentable",
+                  "Integradora",
+                  "Negociación Empresarial"
+               ]
+            },
+            {
+               "titulo": "11vo Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Responsabilidad.",
+            "Ética.",
+            "Vocación de servicio.",
+            "Empatía.",
+            "Conciencia ambiental.",
+            "Respeto por diferentes culturas.",
+            "Pensamiento matemático.",
+            "Pensamiento analítico.",
+            "Estructura de la lengua.",
+            "Comprensión lectora.",
+            "Trabajo en equipo.",
+            "Aprendizaje de idiomas.",
+            "Manejo de las relaciones interpersonales.",
+            "Capacidad de resiliencia."
+         ],
+         "perfil_egreso": [
+            "Fomentar la sostenibilidad dentro de cualquier actividad turística para lograr su mejor progreso. Utilizar las nuevas tecnologías aplicadas en el turismo para alcanzar tanto la eficiencia como eficacia en la actividad. Innovará y desarrollará productos turísticos con enfoques sustentables. Identificará indicadores del desarrollo sustentable para tomar decisiones asertivas y participar en diferentes certificaciones aplicadas en el turismo. Propiciar oportunidades de desarrollo y crecimiento en el sector turístico. Planificará, administrará y gestionará organismos y empresas turísticas."
+         ]
+      },
+      {
+         "titulo": "LICENCIATURA EN GASTRONOMÍA",
+         "slug": "licenciatura_en_gastronomia",
+         "plan_materias": [
+            {
+               "titulo": "7mo Cuatrimestre",
+               "materias": [
+                  "Administración de Procesos Gastronómicos",
+                  "Administración del Tiempo",
+                  "Bebidas Destiladas Mexicanas",
+                  "Cocina Mexicana I",
+                  "Inglés VI",
+                  "Patrimonio Culinario de México"
+               ]
+            },
+            {
+               "titulo": "8vo Cuatrimestre",
+               "materias": [
+                  "Administración de Procesos Gastronómicos",
+                  "Administración del Tiempo",
+                  "Bebidas Destiladas Mexicanas",
+                  "Cocina Mexicana I",
+                  "Inglés VI",
+                  "Patrimonio Culinario de México"
+               ]
+            },
+            {
+               "titulo": "9no Cuatrimestre",
+               "materias": [
+                  "Cocina Asiática",
+                  "Conceptos Gastronómicos",
+                  "Contabilidad",
+                  "Dirección de Equipos de Alto Rendimiento",
+                  "Inglés VIII",
+                  "Mixología"
+               ]
+            },
+            {
+               "titulo": "10mo Cuatrimestre",
+               "materias": [
+                  "Análisis e Interpretación Financiera",
+                  "Cocina Contemporánea",
+                  "Desarrollo de Negocios Gastronómicos",
+                  "Gestión de la Calidad en Establecimientos de Alimentos y Bebidas",
+                  "Inglés IX",
+                  "Integradora",
+                  "Negociación Empresarial"
+               ]
+            },
+            {
+               "titulo": "11vo Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Haber concluido satisfactoriamente el TSU en Gastronomía."
+         ],
+         "perfil_egreso": [
+            "Desarrollar y administrar un concepto gastronómico a través del diagnóstico del potencial culinario, la ingeniería de menú, cocina mexicana e internacional representativa, herramientas financieras y de administración estratégica y la normatividad aplicable para fortalecer al sector gastronómico y contribuir al desarrollo económico de la zona."
+         ]
+      },
+      {
+         "titulo": "LICENCIATURA EN DISEÑO Y GESTIÓN DE REDES LOGÍSTICAS",
+         "slug": "licenciatura_en_diseno_y_gestion_de_redes_logisticas",
+         "plan_materias": [
+            {
+               "titulo": "7mo Cuatrimestre",
+               "materias": [
+                  "Administración de Operaciones",
+                  "Administración del Tiempo",
+                  "Control Estadístico de Procesos",
+                  "Inglés VI",
+                  "Investigación de Operaciones",
+                  "Tendencias en la Cadena de Suministros"
+               ]
+            },
+            {
+               "titulo": "8vo Cuatrimestre",
+               "materias": [
+                  "Administración de Transporte",
+                  "Diseño de Redes de Suministros",
+                  "Estrategias Logísticas de Distribución",
+                  "Inglés VII",
+                  "Investigación Orientada a Proyectos Logísticos",
+                  "Planeación y Organización del Trabajo"
+               ]
+            },
+            {
+               "titulo": "9no Cuatrimestre",
+               "materias": [
+                  "Administración Estratégica",
+                  "Dirección de Equipos de Alto Rendimiento",
+                  "Gestión de Comercio Exterior",
+                  "Inglés VIII",
+                  "Planeación de Redes de Suministros",
+                  "Seguridad en la Cadena de Suministros",
+                  "Sostenibilidad Ambiental"
+               ]
+            },
+            {
+               "titulo": "10mo Cuatrimestre",
+               "materias": [
+                  "Evaluación de la Cadena de Suministros",
+                  "Evaluación Económico Financiera",
+                  "Inglés IX",
+                  "Integradora",
+                  "Negociación Empresarial",
+                  "Relaciones en la Cadena de Suministros",
+                  "Simulación de Redes de Suministro"
+               ]
+            },
+            {
+               "titulo": "11vo Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "Habilidades personales como apertura al cambio de nuevas ideas, relaciones interpersonales, capacidad de autoaprendizaje, habilidades interpersonales, capacidad de resolución de problemas, capacidad crítica y autocrítica, capacidad de investigación, ética y compromiso con el medio ambiente.",
+            "Entre sus intereses se encuentran: agrado por el área de la logística, investigación y resolución de problemas."
+         ],
+         "perfil_egreso": [
+            "Diseñar y gestionar redes de suministros de productos y servicios a través del diagnóstico de necesidades, integración de sistemas logísticos y tecnologías aplicadas a la cadena de suministros, aplicando herramientas administrativas, financieras, de negociación y calidad, para contribuir a la rentabilidad y sustentabilidad de la organización."
+         ]
+      },
+      {
+         "titulo": "INGENIERÍA EN TECNOLOGÍA AMBIENTAL",
+         "slug": "ingenieria_en_tecnologia_ambiental",
+         "plan_materias": [
+            {
+               "titulo": "7mo Cuatrimestre",
+               "materias": [
+                  "Administración del Tiempo",
+                  "Evaluación de Riesgos",
+                  "Inglés VI",
+                  "Matemáticas para Ingeniería I",
+                  "Planeación y Organización del Trabajo",
+                  "Química Ambiental I"
+               ]
+            },
+            {
+               "titulo": "8vo Cuatrimestre",
+               "materias": [
+                  "Diseño de Experimentos",
+                  "Evaluación de Impacto Ambiental",
+                  "Inglés VII",
+                  "Matemáticas para Ingeniería II",
+                  "Producción Sustentable",
+                  "Química Ambiental II"
+               ]
+            },
+            {
+               "titulo": "9no Cuatrimestre",
+               "materias": [
+                  "Biotecnología Ambiental",
+                  "Dirección de Equipos de Alto Rendimiento",
+                  "Ecología Industrial",
+                  "Ingeniería Económica",
+                  "Inglés VIII",
+                  "Operaciones Unitarias I"
+               ]
+            },
+            {
+               "titulo": "10mo Cuatrimestre",
+               "materias": [
+                  "Auditor ISO 14001",
+                  "Inglés IX",
+                  "Integradora III",
+                  "Negociación Empresarial",
+                  "Operaciones Unitarias II",
+                  "Tecnologías Ambientales"
+               ]
+            },
+            {
+               "titulo": "11vo Cuatrimestre",
+               "materias": [
+                  "Estadías"
+               ]
+            }
+         ],
+         "perfil_ingreso": [
+            "La carrera de TSU Química, Área Tecnología Ambiental.",
+            "Habilidades de comunicación correcta en forma oral y escrita, trabajo en equipo y trabajo bajo presión.",
+            "Capacidad para operar laboratorios de análisis químicos, mediante procedimientos técnicos y administrativos establecidos, apegados a la normatividad vigente.",
+            "Capacidad para evaluar elementos de calidad ambiental, con base en la normatividad, el uso de tecnologías y el análisis de sistemas, para integrar programas ambientales, de calidad, seguridad e higiene laboral.",
+            "Capacidad para actuar con valores y actitudes proactivas de excelencia, en su desarrollo personal, social y organizacional, en armonía con su medio ambiente para desarrollar su potencial personal, social y organizacional.",
+            "Comunicar sentimientos, pensamientos, conocimientos, experiencias, ideas, reflexiones, opiniones, a través de expresiones sencillas y de uso común, en forma productiva y receptiva en el idioma inglés de acuerdo al nivel A2."
+         ],
+         "perfil_egreso": [
+            "Desarrollar soluciones de prevención, control, mitigación y remediación de impactos al ambiente.",
+            "Plantear y solucionar problemas de ingeniería con base en los principios y teorías de física, química y matemáticas, a través del método científico.",
+            "Desarrollar y dirigir organizaciones a través del ejercicio ético del liderazgo, con enfoque sistémico para contribuir al logro de objetivos estratégicos.",
+            "Comunicar sentimientos, pensamientos, conocimientos, experiencias, ideas, reflexiones, opiniones, en los ámbitos públicos, personales, educativos y ocupacionales, productiva y receptivamente en el idioma inglés de acuerdo al nivel B1."
+         ]
+      }
+   ]
+}

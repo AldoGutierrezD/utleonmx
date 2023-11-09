@@ -1,0 +1,21 @@
+#becas-info {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    margin-bottom: 20px;
+}
+
+#becas-info>img {
+    height: 260px;
+    width: auto;
+}
+
+@media (max-width: 900px) {
+    #becas-info {
+        flex-direction: column;
+    }
+
+    #becas-info>img {
+        display: none;
+    }
+}

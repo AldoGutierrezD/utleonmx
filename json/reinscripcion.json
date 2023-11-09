@@ -1,0 +1,45 @@
+{
+    "reinscripcion": [
+        {
+            "titulo": "Reinscripción cuatrimestral",
+            "descripcion": [
+                {
+                    "paso": "Septiembre - Diciembre 2023",
+                    "detalles": [
+                        "28 de Agostro al 15 de Septiembre"
+                    ]
+                },
+                {
+                    "paso": "Previo a tu reinscripción:",
+                    "detalles": [
+                        "Verifica que todas tus calificaciones estén capturadas y no adeudes materias.",
+                        "Cualquier error o consulta de calificaciones consúltalo directamente con tu docente o gestor(a) de carrera"
+                    ]
+                },
+                {
+                    "paso": "Solicitud de reinscripción",
+                    "detalles": [
+                        "Ingresa a tu cuenta de SITO y dirígete a 1 - Reinscripción y Referencias de Pago/ 1 - Reinscripción Cuatrimestral/ 1 - Solicitud de Reinscripción, ahí podras enviar la solicitud de reinscripción",
+                        "¡Hacer este proceso manifiestas que estarás inscrito(a) en el cuatrimestre!"
+                    ]
+                },
+                {
+                    "paso": "Referencia de pago",
+                    "detalles": [
+                        "Pago único cuatrimestral:",
+                        "TSU: $2,111.00",
+                        "ING/LIC: $2,214.00",
+                        "Ingresa a tu cuenta de SITO y dirigete a 1 - Reinscripción y Referencias de Pago/ 1 - Reinscripción Cuatrimestral/ 2 - Referencia Única de Pago de Cuota Cuatrimestral, ahí podras descargar tu referencia de pago"
+                    ]
+                },
+                {
+                    "paso": "Solicitud de prórroga de pago",
+                    "detalles": [
+                        "En caso de NO poder realizar el pago en las fechas establecidas, es indispensable que realices una Solicitud de prórroga",
+                        "Ingresa a tu cuenta de SITO y dirigete a 1 - Reinscripción y Referencias de Pago/ 1 - Reinscripción Cuatrimestral/ 3 - Solicitud de Prórroga, ahí deberás rellenar una encuesta para poder generar tu prórroga"
+                    ]
+                }
+            ]
+        }
+    ]
+}
