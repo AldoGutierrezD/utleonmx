@@ -1,0 +1,74 @@
+{
+    "constancia": [
+        {
+            "titulo": "Realiza el pago",
+            "descripcion": [
+                "Ingresa a tu cuenta de SITO y descarga la referencia para realizar el pago, utiliza la siguiente ruta: 1. Reinscripción y referencias de pago / 3 Otras Referencias / Otros pagos"
+            ],
+            "link": ""
+        },
+        {
+            "titulo": "Llena la solicitud",
+            "descripcion": [
+                "Ingresa y responde el formulario para conocer el tipo de constancia que necesitas."
+            ],
+            "link": "https://forms.office.com/Pages/ResponsePage.aspx?id=UmAYNWAxO0yUq1G0zZsRWMv6rZhoU_hPuV0zyLBjO_FUNjY1VFhHRFozUlI4T1dNWDlEVVJZMVBQOS4u"
+        },
+        {
+            "titulo": "Envia tu comprobante",
+            "descripcion": [
+                "Envía por correo electrónico el pago, la referencia de pago y una identificación con foto. en el siguiente paso encontrarás los contactos"
+            ],
+            "link": ""
+        },
+        {
+            "titulo": "Correos de contacto",
+            "descripcion": [
+                "Yessica Saray Gómez | ygomez@utleon.edu.mx",
+                "  • TSU",
+                "   ▸ Administración",
+                "   ▸ Desarrollo de Negocios",
+                "  • ING/LIC",
+                "   ▸ Gestión del Capital Humano",
+                "   ▸ Innovación de Negocios y Mercadotecnia",
+                "Brenda Isabel Tellez | btellez@utleon.edu.mx",
+                "  • TSU",
+                "   ▸ Mecatrónica",
+                "   ▸ Procesos Industriales",
+                "  • ING/LIC",
+                "   ▸ Mecatrónica",
+                "   ▸ Sistemas Productivos",
+                "Luis Alejandro Gonzáles | luis.gonzalez@utleon.edu.mx",
+                "  • TSU",
+                "   ▸ Logística",
+                "   ▸ Mantenimiento",
+                "   ▸ Química",
+                "   ▸ Turismo",
+                "  • ING/LIC",
+                "   ▸ Diseño y Gestión de Redes Logísticas",
+                "   ▸ Mantenimiento Industrial",
+                "   ▸ Tecnología Ambiental",
+                "   ▸ Gestión y Desarrollo Turístico",
+                "Evangelina Torres Padilla | etorresp@utleon.edu.mx ",
+                "  • TSU",
+                "   ▸ Gastronomía",
+                "   ▸ Tecnologías de la Información",
+                "  • ING/LIC",
+                "   ▸ Gastronomía",
+                "   ▸ Tecnologías de la Información"
+            ],
+            "link": ""
+        },
+        {
+            "titulo": "Entrega",
+            "descripcion": [
+                "El tiempo de entrega es de 3 días laborales como máximo, posterior a la fecha de recepción del correo.",
+                "¡NO HABRÁ CAMBIOS!",
+                "Si eliges la opción digital y posteriormente quieres cambiarla en físico, esta deberá ser gestionada nuevamente con costo y de acuerdo a los tiempos establecidos.",
+                "Antes de solicitar la constancia verifica con la persona o instancia (institución) en la que entregarás la constancia, si la requiere de manera física o digital.",
+                "***Hasta no recibir el correo se iniciará el proceso de elaboración./*  */"
+            ],
+            "link": ""
+        }
+    ]
+}

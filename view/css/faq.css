@@ -34,6 +34,7 @@
 
 .faq-content>p {
     font-weight: bold;
+    width: 80%;
 }
 
 .additional-info {
@@ -45,7 +46,7 @@
 
 .faq-card.active,
 .additional-info.active {
-    max-height: 300px;
+    max-height: 380px;
 }
 
 /* .faq-card-becas:has(.additional-info.active) {
@@ -58,6 +59,6 @@
 
 @media (max-width: 900px) {
     .faq-card {
-        width: 80%;
+        width: 100%;
     }
 }
