@@ -1,0 +1,28 @@
+{
+    "tutoreo": [
+        {
+            "titulo": "Detención",
+            "descripcion": [
+                "Realizar entrevista, sesiones frente a grupo, obtener información de otras fuetes."
+            ]
+        },
+        {
+            "titulo": "Orientación",
+            "descripcion": [
+                "Proporciona información retroalimenta, comtempla variables, detecta acciones emprendidas por el alumno, ofrece alternativas."
+            ]
+        },
+        {
+            "titulo": "Canalización",
+            "descripcion": [
+                "Asesorías académicas, orientación psicológica, EGRESA, coordinación de carreras, etc."
+            ]
+        },
+        {
+            "titulo": "Seguimiento",
+            "descripcion": [
+                "La tutora/o, verifica e informa acciones realizadas por los alumnos canalizados a los servicios de apoyo institucionales, así como a las recomendaciones educativas, según el caso."
+            ]
+        }
+    ]
+}
