@@ -155,7 +155,7 @@
     }
 
     .vl {
-        border-top: 3px solid var(--color-highlight);
+        border-top: 3px solid var(--color-secondary-dark);
         width: auto;
     }
 
