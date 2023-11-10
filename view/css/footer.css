@@ -36,6 +36,10 @@ footer>.more {
     cursor: pointer;
 }
 
+.link-utl>li>a {
+    color: var(--color-primary);
+}
+
 .link-utl>li>a:visited {
     color: var(--color-primary);
 }
