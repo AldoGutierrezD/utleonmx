@@ -119,6 +119,7 @@
     .content-box_utl_info {
         padding: 20px;
         margin-bottom: 40px;
+        min-height: 210px;
     }
 
     .content-box_utl h2 {
